@@ -1,0 +1,19 @@
+## Interface: 32000
+## Title: myfakewblock
+## Notes: nerv jmd anders
+## Author: inselberg
+## Version: 0.1
+## X-Category: Interface Enhancements
+## Dependencies: myfunctions
+## SavedVariables: myfakewblockDB
+
+
+
+-- locales
+myfakewblock-Locale-deDE.lua
+
+-- core
+Core.lua
+
+-- xml
+--simple.xml
